@@ -1,26 +1,12 @@
-# 📊 Power BI Sales Dashboard – Beginner Project
+# 📊 Power BI Sales Dashboard 
 
 Welcome to the **Power BI Sales Dashboard Project**.
 
 This project is designed for beginners to practice the complete Power BI workflow:
 
-**Data → Power Query → Data Cleaning → Merge Queries → Data Model → DAX → Visualizations → Dashboard → Insights**
+**Data → Power Query → Data Cleaning → Merge Queries → Data Model → Visualizations → Dashboard → Insights**
 
 ---
-
-## 📥 Download the Project Files
-
-### 📊 Dataset
-
-Download the Excel dataset from the GitHub repository:
-
-👉 **[Download Sales Dataset](./Sales-Dashboard- Data Set.xlsx)**
-
-### 📈 Power BI Dashboard
-
-👉 **[Download Power BI File](./Sales-Dashboard/blob/main/Sales%20Dashboard.pbix
-)**
-
 > If you are building the dashboard yourself, try to complete the project before opening the completed `.pbix` file.
 
 ---
