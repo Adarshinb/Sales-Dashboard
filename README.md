@@ -18,7 +18,7 @@ Download the Excel dataset from the GitHub repository:
 
 ### 📈 Power BI Dashboard
 
-👉 **[Download Power BI File](./https://github.com/Adarshinb/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix
+👉 **[Download Power BI File](./Sales-Dashboard/blob/main/Sales%20Dashboard.pbix
 )**
 
 > If you are building the dashboard yourself, try to complete the project before opening the completed `.pbix` file.
