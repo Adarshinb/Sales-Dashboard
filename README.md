@@ -11,12 +11,6 @@ This project is designed for beginners to practice the complete Power BI workflo
 
 ---
 
-# 🖼️ Dashboard Preview
-
-![Sales Dashboard](./dashboard/sales-dashboard.png)
-
----
-
 # 🎯 Learning Objectives
 
 By completing this project, you will learn:
