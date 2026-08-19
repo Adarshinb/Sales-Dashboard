@@ -14,11 +14,12 @@ This project is designed for beginners to practice the complete Power BI workflo
 
 Download the Excel dataset from the GitHub repository:
 
-👉 **[Download Sales Dataset](./dataset/Sales-Dashboard-Data.xlsx)**
+👉 **[Download Sales Dataset](./Sales-Dashboard- Data Set.xlsx)**
 
 ### 📈 Power BI Dashboard
 
-👉 **[Download Power BI File](./powerbi/Sales-Dashboard.pbix)**
+👉 **[Download Power BI File](./https://github.com/Adarshinb/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix
+)**
 
 > If you are building the dashboard yourself, try to complete the project before opening the completed `.pbix` file.
 
